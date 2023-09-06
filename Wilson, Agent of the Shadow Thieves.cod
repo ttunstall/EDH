@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wilson, Agent of the Shadow Thieves</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Leyline Prowler"/>
+        <card number="1" name="Fynn, the Fangbearer"/>
+        <card number="1" name="Glissa, the Traitor"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Hooded Blightfang"/>
+        <card number="1" name="Kura, the Boundless Sky"/>
+        <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Rhonas the Indomitable"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Moss Diamond"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Beledros Witherbloom"/>
+        <card number="1" name="Bloodtracker"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Bloodthirsty Aerialist"/>
+        <card number="1" name="Quietus Spike"/>
+        <card number="1" name="Pest Infestation"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Paradise Plume"/>
+        <card number="1" name="Pristine Talisman"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Alhammarret's Archive"/>
+        <card number="1" name="Exquisite Blood"/>
+        <card number="1" name="Dina, Soul Steeper"/>
+        <card number="11" name="Forest"/>
+        <card number="11" name="Swamp"/>
+        <card number="1" name="Witch's Clinic"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Witherbloom Campus"/>
+        <card number="1" name="Study Hall"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Gingerbread Cabin"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sapseep Forest"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Radiant Fountain"/>
+        <card number="1" name="Epicure of Blood"/>
+        <card number="1" name="Yedora, Grave Gardener"/>
+        <card number="1" name="Sapling of Colfenor"/>
+        <card number="1" name="Blossoming Bogbeast"/>
+        <card number="1" name="Veinwitch Coven"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Outmuscle"/>
+        <card number="1" name="Band Together"/>
+        <card number="1" name="Broken Wings"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Momentous Fall"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Deadly Tempest"/>
+        <card number="1" name="Lisette, Dean of the Root"/>
+        <card number="1" name="Greed"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Damnable Pact"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Gemrazer"/>
+        <card number="1" name="The Ozolith"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Invigorating Surge"/>
+        <card number="1" name="Amulet of Vigor"/>
+        <card number="1" name="Gargos, Vicious Watcher"/>
+        <card number="1" name="Venser's Journal"/>
+        <card number="1" name="Druidic Satchel"/>
+        <card number="1" name="Topaz Dragon // Entropic Cloud"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Rogue's Gloves"/>
+        <card number="1" name="Malakir Familiar"/>
+        <card number="1" name="Turntimber Symbiosis"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Agent of the Shadow Thieves"/>
+        <card number="1" name="Wilson, Refined Grizzly"/>
+    </zone>
+</cockatrice_deck>

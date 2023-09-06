@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bruenor Battlehammer</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Bruenor Battlehammer"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Curse of Opulence"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Mask of Memory"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Wyleth, Soul of Steel"/>
+        <card number="11" name="Plains"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Rupture Spire"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Encroaching Wastes"/>
+        <card number="1" name="Boros Guildgate"/>
+        <card number="1" name="Forgotten Cave"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Memorial to War"/>
+        <card number="1" name="Stone Quarry"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Transguild Promenade"/>
+        <card number="1" name="Master Warcraft"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Condemn"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Wear // Tear"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Ondu Inversion"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Winds of Rath"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Tiana, Ship's Caretaker"/>
+        <card number="1" name="Ironclad Slayer"/>
+        <card number="1" name="Armory Automaton"/>
+        <card number="1" name="Sigarda's Aid"/>
+        <card number="1" name="Brass Squire"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Mantle of the Ancients"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Restoration Specialist"/>
+        <card number="1" name="Ardenn, Intrepid Archaeologist"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Toggo, Goblin Weaponsmith"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Loxodon Warhammer"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Robe of Stars"/>
+        <card number="1" name="Argentum Armor"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Moonsilver Spear"/>
+        <card number="1" name="Colossus Hammer"/>
+        <card number="1" name="Dancing Sword"/>
+        <card number="1" name="Boots of Speed"/>
+        <card number="1" name="Shield of the Realm"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="On Serra's Wings"/>
+        <card number="1" name="Haunted Cloak"/>
+        <card number="1" name="Sword of Vengeance"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Egg Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Emrakul, the Promised End"/>
+        <card number="1" name="Moldgraf Monstrosity"/>
+        <card number="1" name="Giant Adephage"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Aegis Angel"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Backdraft Hellkite"/>
+        <card number="1" name="Garruk's Packleader"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Roc Egg"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Descent of the Dragons"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Druid's Deliverance"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Far Wanderings"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Ghired's Belligerence"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Growing Ranks"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Momentous Fall"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Nature's Way"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Phyrexian Rebirth"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Primal Vigor"/>
+        <card number="1" name="Relentless Assault"/>
+        <card number="1" name="Rolling Temblor"/>
+        <card number="1" name="Rootborn Defenses"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Song of the Worldsoul"/>
+        <card number="1" name="Sudden Demise"/>
+        <card number="1" name="Sundering Growth"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tooth and Claw"/>
+        <card number="1" name="Trostani's Judgment"/>
+        <card number="1" name="Wake the Reflections"/>
+        <card number="1" name="Apostle's Blessing"/>
+        <card number="1" name="Apex Altisaur"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Angel of Sanctions"/>
+        <card number="1" name="Anger"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Mysterious Egg"/>
+        <card number="1" name="Dragon Egg"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Summoner's Egg"/>
+        <card number="1" name="Rukh Egg"/>
+        <card number="1" name="Defense of the Heart"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Atla Palani, Nest Tender"/>
+        <card number="1" name="Magmatic Chasm"/>
+        <card number="1" name="Hate Mirage"/>
+        <card number="1" name="Lapse of Certainty"/>
+        <card number="1" name="Desolation Twin"/>
+        <card number="1" name="Mighty Emergence"/>
+        <card number="1" name="Full Flowering"/>
+        <card number="1" name="Ghired, Conclave Exile"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Sight of the Scalelords"/>
+    </zone>
+</cockatrice_deck>

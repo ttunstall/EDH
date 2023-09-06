@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jadzi Mill</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Jadzi, Oracle of Arcavios"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Whispering Wizard"/>
+        <card number="1" name="Chrome Host Seedshark"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Dreadwaters"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Coiling Oracle"/>
+        <card number="1" name="Urban Evolution"/>
+        <card number="1" name="Poppet Stitcher"/>
+        <card number="1" name="Simic Charm"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Startled Awake"/>
+        <card number="1" name="Sporemound"/>
+        <card number="1" name="Ior Ruin Expedition"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Bruvac the Grandiloquent"/>
+        <card number="1" name="Sphinx's Tutelage"/>
+        <card number="1" name="Psychic Spiral"/>
+        <card number="1" name="Increasing Confusion"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Seer's Sundial"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Ruin Crab"/>
+        <card number="1" name="Finale of Revelation"/>
+        <card number="1" name="Teferi's Puzzle Box"/>
+        <card number="1" name="Fraying Sanity"/>
+        <card number="1" name="Parcelbeast"/>
+        <card number="1" name="Jace's Sanctum"/>
+        <card number="1" name="Zendikar's Roil"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Fleet Swallower"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Traumatize"/>
+        <card number="1" name="Maddening Cacophony"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Patient Rebuilding"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Baral, Chief of Compliance"/>
+        <card number="1" name="Meloku the Clouded Mirror"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Primal Amulet"/>
+        <card number="1" name="Psychic Corrosion"/>
+        <card number="1" name="Tasha's Hideous Laughter"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Fractured Sanity"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Memory Erosion"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Retreat to Kazandu"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Terastodon"/>
+        <card number="13" name="Island"/>
+        <card number="1" name="Jungle Basin"/>
+        <card number="14" name="Forest"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="1" name="Memorial to Genius"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Coral Atoll"/>
+        <card number="1" name="Woodland Stream"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Vivid Grove"/>
+    </zone>
+</cockatrice_deck>

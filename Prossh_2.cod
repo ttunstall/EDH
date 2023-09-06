@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Prossh 2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Mazirek, Kraul Death Priest"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Triumph of the Hordes"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Deathbringer Thoctar"/>
+        <card number="1" name="Goblin Sharpshooter"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Awakening Zone"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Primal Vigor"/>
+        <card number="1" name="Night Soil"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Descent of the Dragons"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Tempt with Vengeance"/>
+        <card number="1" name="Sudden Demise"/>
+        <card number="1" name="Kindred Dominance"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Curse of Predation"/>
+        <card number="1" name="Anger"/>
+        <card number="1" name="Battle Squadron"/>
+        <card number="1" name="Quagmire Druid"/>
+        <card number="1" name="Song of Freyalise"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Lagomos, Hand of Hatred"/>
+        <card number="1" name="Akoum Refuge"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Grixis Panorama"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Kazandu Refuge"/>
+        <card number="1" name="Khalni Garden"/>
+        <card number="1" name="Llanowar Reborn"/>
+        <card number="5" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="5" name="Swamp"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Vivid Grove"/>
+        <card number="1" name="Broken Wings"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Ranger's Path"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Nissa's Pilgrimage"/>
+        <card number="1" name="Evolution Charm"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Deathsprout"/>
+        <card number="1" name="Might of the Masses"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Trumpet Blast"/>
+        <card number="1" name="Garna, Bloodfist of Keld"/>
+        <card number="1" name="Juri, Master of the Revue"/>
+        <card number="1" name="Phyrexian Vivisector"/>
+        <card number="1" name="Devilish Valet"/>
+        <card number="1" name="Warhost's Frenzy"/>
+        <card number="1" name="Samut, Tyrant Smasher"/>
+        <card number="1" name="Fires of Yavimaya"/>
+        <card number="1" name="Riveteers Ascendancy"/>
+        <card number="1" name="New Horizons"/>
+        <card number="1" name="Overgrowth"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Bojuka Bog"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Prossh, Skyraider of Kher"/>
+        <card number="1" name="Judith, the Scourge Diva"/>
+        <card number="1" name="Rot Shambler"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Nesting Dragon"/>
+    </zone>
+</cockatrice_deck>

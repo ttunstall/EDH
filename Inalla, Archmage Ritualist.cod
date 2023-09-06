@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Inalla</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Nekusar, the Mindrazer"/>
+        <card number="1" name="Inalla, Archmage Ritualist"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Jace's Archivist"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Obeka, Brute Chronologist"/>
+        <card number="1" name="Sundial of the Infinite"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="1" name="Clone Legion"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Wizard's Retort"/>
+    </zone>
+</cockatrice_deck>

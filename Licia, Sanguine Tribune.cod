@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Licia, Sanguine Tribune</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Pious Evangel"/>
+        <card number="1" name="God-Pharaoh's Faithful"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Rune-Tail, Kitsune Ascendant"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="1" name="Emergence Zone"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Licia, Sanguine Tribune"/>
+    </zone>
+</cockatrice_deck>

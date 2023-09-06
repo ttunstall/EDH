@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marath, Will of the Wild</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bard Class"/>
+        <card number="1" name="Ajani, the Greathearted"/>
+        <card number="1" name="Showdown of the Skalds"/>
+        <card number="1" name="Stumpsquall Hydra"/>
+        <card number="1" name="Retreat to Kazandu"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Verdant Force"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Marath, Will of the Wild"/>
+    </zone>
+</cockatrice_deck>
