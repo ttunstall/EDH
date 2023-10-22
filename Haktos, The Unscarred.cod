@@ -69,6 +69,10 @@
         <card number="1" name="Armillary Sphere"/>
         <card number="1" name="Dauntless Bodyguard"/>
         <card number="1" name="Coppercoat Vanguard"/>
+        <card number="1" name="Folk Hero"/>
+        <card number="1" name="Rally the Ranks"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Akroma's Will"/>
     </zone>
     <zone name="side">
         <card number="2" name="Plains"/>

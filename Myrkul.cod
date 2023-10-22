@@ -24,9 +24,9 @@
         <card number="1" name="Ajani's Chosen"/>
         <card number="1" name="Sigil of the Empty Throne"/>
         <card number="1" name="Starfield of Nyx"/>
-        <card number="13" name="Forest"/>
-        <card number="13" name="Swamp"/>
-        <card number="13" name="Plains"/>
+        <card number="8" name="Forest"/>
+        <card number="8" name="Swamp"/>
+        <card number="8" name="Plains"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -50,7 +50,6 @@
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Black Market Connections"/>
         <card number="1" name="The War in Heaven"/>
-        <card number="1" name="Biotransference"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Farseek"/>
@@ -63,8 +62,30 @@
         <card number="1" name="Fertilid"/>
         <card number="1" name="Rowan's Grim Search"/>
         <card number="1" name="Knight of Doves"/>
+        <card number="1" name="Restoration Specialist"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Concealed Courtyard"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Crystal Chimes"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Fountain Watch"/>
+        <card number="1" name="Finale of Eternity"/>
+        <card number="1" name="Path of Ancestry"/>
     </zone>
     <zone name="side">
         <card number="1" name="Myrkul, Lord of Bones"/>
+        <card number="1" name="Akroma's Will"/>
+        <card number="1" name="Biotransference"/>
+        <card number="1" name="Ascend from Avernus"/>
     </zone>
 </cockatrice_deck>
